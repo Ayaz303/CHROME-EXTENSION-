@@ -17,3 +17,4 @@ To enhance user engagement, the extension can include features such as reminders
 
 In summary, this Chrome extension for time tracking and productivity analytics not only aims to help users monitor their online activities but also strives to foster better digital habits through insightful analytics and personalized recommendations. By combining real-time tracking with a robust backend and an engaging dashboard, this tool will empower users to take charge of their productivity in an increasingly distracting digital landscape.
 # OUTPUT 
+![Image](https://github.com/user-attachments/assets/c0e64f5e-2fb6-4dae-ab8d-ff0c2b65b81b)
